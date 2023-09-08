@@ -1,0 +1,21 @@
+.model_title {
+    font-size: 20px;
+    font-weight: 600;
+}
+.title-icon {
+    font-size: 30px;
+}
+.small-box {
+    text-align: center;
+}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #fff;
+    color: #000;
+}
+.nav-item.menu-open {
+ margin-bottom: 10px;
+}
+
+.small-box.bg-light a {
+    color: #000;
+}
